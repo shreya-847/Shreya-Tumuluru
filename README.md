@@ -13,4 +13,4 @@ I'm a 3rd-year student at Ramaiah Institute of Technology, passionate about codi
 ## Connect with Me
 
 - [GitHub](https://github.com/shreya-847)
-- [LinkedIn](www.linkedin.com/in/shreya-tumuluru-a1b3b4229/)
+- [!LinkedIn](www.linkedin.com/in/shreya-tumuluru-a1b3b4229/)
