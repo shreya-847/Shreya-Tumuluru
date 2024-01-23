@@ -1,6 +1,3 @@
-# Shreya-Tumuluru
-Click Here to Know About Me 🌐👩‍💻
-
 # Hey there! 👋 I'm Shreya Tumuluru
 
 I'm a 3rd-year student at Ramaiah Institute of Technology, passionate about coding, machine learning, and data science.
