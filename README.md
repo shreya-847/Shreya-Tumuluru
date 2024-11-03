@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Shreya Tumuluru
 
-I'm a 3rd-year student at Ramaiah Institute of Technology, passionate about coding, machine learning, and data science.
+I'm a final year student at Ramaiah Institute of Technology, passionate about coding, machine learning, and data science.
 ##
 - 🚀 Actively seeking opportunities in ML and data science.
 - 🛠️ Currently working on fascinating ML and DL projects.
